@@ -1,0 +1,1 @@
+For our last data science project, Chloe Roque, Jessica Gallardo, Thu M. Pham, and I dove into the basics of time series analysis. We built a simulated dataset, explored key concepts like stationarity and autocorrelation, and created an ARMA model to forecast trends. Check out our quick introduction to this exciting topic!
